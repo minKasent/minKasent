@@ -12,6 +12,14 @@
   <img src="https://komarev.com/ghpvc/?username=minKasent&label=Profile%20Views&color=98c379&style=flat-square" alt="Views" />
 </p>
 
+<p align="center">
+  <a href="https://t.me/realndk" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://zalo.me/0868484572" target="_blank"><img src="https://img.shields.io/badge/Zalo-0068FF?style=flat-square&logo=zalo&logoColor=white" alt="Zalo" /></a>
+  <a href="mailto:dangkhoa3971@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/khoan%C4%91" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/khoa.nguyen.370012" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
+
 </div>
 
 ---
@@ -69,4 +77,3 @@
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/minKasent/minKasent/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
-
