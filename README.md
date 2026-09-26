@@ -69,3 +69,5 @@
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/minKasent/minKasent/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
+
+<!-- Pair Extraordinaire Trigger -->
