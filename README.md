@@ -24,7 +24,7 @@
 
 ---
 
-### 💻 System Environment & Architecture
+### System Environment & Architecture
 
 <div align="center">
   <img src="assets/terminal_neofetch.svg" alt="System Specification Terminal" width="100%" />
@@ -32,7 +32,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -47,17 +47,6 @@
 </p>
 
 </div>
-
----
-
-### 🏛 Featured Architecture & Core Projects
-
-| Project | Highlights & Architecture | Core Stack |
-| :--- | :--- | :--- |
-| [**`microservice-f-ndk`**](https://github.com/minKasent/microservice-f-ndk) | **Distributed Event-Driven Architecture**<br>• Kafka Orchestrated Saga Pattern with Semantic Locking<br>• Full Grafana Observability (Tempo, Loki, Prometheus, Alloy)<br>• Netflix Eureka, Spring Cloud Gateway, Reactive Streams | `Java 21` `Spring Boot` `Kafka` `Docker` |
-| [**`crypto_exchange`**](https://github.com/minKasent/crypto_exchange) | **Real-Time Trading Mobile Application**<br>• Binance WebSocket API integration with zero latency<br>• Live order book depth, dynamic charting, portfolio tracking<br>• Strict Clean Architecture with Provider state management | `Flutter` `Dart` `WebSocket` `Clean Arch` |
-| [**`Next_order_food`**](https://github.com/minKasent/Next_order_food) | **Smart Restaurant Operations Platform**<br>• Dining table QR code ordering with dynamic access tokens<br>• Realtime kitchen dispatch via Socket.io & Turbopack SSR<br>• TanStack Query, shadcn/ui design system, multilingual i18n | `Next.js 15` `React 19` `TypeScript` `Socket.io` |
-| [**`grocery_go`**](https://github.com/minKasent/grocery_go) | **Enterprise E-Commerce Mobile Engine**<br>• Domain-Driven Design (DDD) layered architecture<br>• BLoC state management, Injectable DI, multi-flavor build | `Flutter` `BLoC` `Injectable` `i18n` |
 
 ---
 
