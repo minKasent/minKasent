@@ -1,10 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" width="100%" height="100%">
   <defs>
+    <linearGradient id="archGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1793d1"/>
+      <stop offset="100%" stop-color="#7dcfff"/>
+    </linearGradient>
     <style>
       .bg { fill: #16161e; rx: 12px; }
       .bar { fill: #1a1b26; rx: 12px 12px 0 0; }
       .title { fill: #7aa2f7; font-family: 'Fira Code', 'Courier New', monospace; font-size: 13px; font-weight: 600; }
-      .ascii { fill: #7dcfff; font-family: 'Fira Code', 'Courier New', monospace; font-size: 14px; font-weight: 700; line-height: 1.2; }
       .prompt-user { fill: #bb9af7; font-weight: 700; }
       .prompt-at { fill: #565f89; }
       .prompt-host { fill: #7aa2f7; font-weight: 700; }
@@ -14,6 +17,8 @@
       .val-hl { fill: #9ece6a; font-family: 'Fira Code', 'Courier New', monospace; font-size: 13px; font-weight: 500; }
       .val-accent { fill: #e0af68; font-family: 'Fira Code', 'Courier New', monospace; font-size: 13px; }
       .palette-box { width: 22px; height: 14px; rx: 3px; }
+      .arch-label { fill: #bb9af7; font-family: 'Fira Code', 'Courier New', monospace; font-size: 12px; font-weight: 700; letter-spacing: 0.5px; }
+      .arch-div { fill: #565f89; font-family: 'Fira Code', 'Courier New', monospace; font-size: 12px; }
     </style>
   </defs>
 
@@ -29,23 +34,19 @@
   <!-- Window Title -->
   <text x="400" y="23" text-anchor="middle" class="title">minKasent@Kasent-Arch: ~</text>
 
-  <!-- ASCII Art: Arch Linux Stylized -->
-  <g class="ascii" transform="translate(45, 75)">
-    <text x="0" y="30">          /\</text>
-    <text x="0" y="52">         /  \</text>
-    <text x="0" y="74">        /\   \</text>
-    <text x="0" y="96">       /      \</text>
-    <text x="0" y="118">      /   ,,   \</text>
-    <text x="0" y="140">     /   |  |  -\</text>
-    <text x="0" y="162">    /_-''    ''-_\</text>
-    <text x="0" y="195" fill="#bb9af7" font-size="11">   [ ARCH LINUX x86_64 ]</text>
-    <text x="0" y="215" fill="#565f89" font-size="11">   =====================</text>
+  <!-- Official Arch Linux Vector Logo (Pixel-perfect, never skews) -->
+  <g transform="translate(65, 68)">
+    <g transform="scale(0.293)">
+      <path fill="url(#archGrad)" d="M256 1.6c-22.3 55.7-36.6 90.6-62 144.7 15.9 17.5 35 36.6 65.2 57.2-33.4-12.7-55.7-27-71.6-41.3C154.2 230.6 103.4 326 1.6 512c79.5-47.7 143.1-76.3 201.9-87.5-3.2-11.1-4.8-22.3-4.8-35V388c1.6-52.5 28.6-92.2 60.4-89 31.8 1.6 57.2 46.1 55.7 98.6l-3.2 27c57.2 11.1 119.3 41.3 198.8 85.9L467.5 431c-20.7-15.9-42.9-36.6-87.5-60.4 30.2 8 52.5 17.5 70 27C313.2 144.7 302.1 111.3 256 0z"/>
+    </g>
+    <text x="75" y="178" text-anchor="middle" class="arch-label">[ ARCH LINUX x86_64 ]</text>
+    <text x="75" y="198" text-anchor="middle" class="arch-div">=====================</text>
   </g>
 
   <!-- System Information Details -->
-  <g transform="translate(290, 75)">
+  <g transform="translate(285, 75)">
     <!-- User@Host Prompt -->
-    <text x="0" y="18" font-family="'Fira Code', monospace" font-size="15">
+    <text x="0" y="18" font-family="'Fira Code', 'Courier New', monospace" font-size="15">
       <tspan class="prompt-user">minKasent</tspan>
       <tspan class="prompt-at">@</tspan>
       <tspan class="prompt-host">Kasent-Arch</tspan>
