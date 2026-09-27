@@ -1,6 +1,6 @@
 <div align="center">
 
-# Dang Khoa 👋
+# Hey, I'm Dang Khoa 👋
 
 <a href="https://github.com/minKasent">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=61AFEF&center=true&vCenter=true&width=520&lines=Fullstack+%26+Mobile+Engineer;Java+%7C+Spring+Boot+Microservices;TypeScript+%7C+React+%7C+Next.js;Dart+%7C+Flutter+Architect;Clean+Architecture+%26+High+Performance" alt="Typing SVG" />
