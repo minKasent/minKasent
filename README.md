@@ -50,6 +50,16 @@
 
 ---
 
+### 🏅 Verified Badges & Recognitions
+
+<div align="center">
+  <a href="https://holopin.io/@minKasent" target="_blank">
+    <img src="https://holopin.me/minKasent" alt="@minKasent's Holopin Board" width="100%" />
+  </a>
+</div>
+
+---
+
 ### 3D Contribution Skyline
 
 <div align="center">
