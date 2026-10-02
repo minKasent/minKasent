@@ -24,14 +24,6 @@
 
 ---
 
-### System Environment & Architecture
-
-<div align="center">
-  <img src="assets/terminal_spec.svg" alt="System Specification Terminal" width="100%" />
-</div>
-
----
-
 ### Tech Stack
 
 <div align="center">
