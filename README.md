@@ -24,24 +24,6 @@
 
 ---
 
-### Tech Stack
-
-<div align="center">
-
-<p>
-  <b>Languages & Frameworks</b><br>
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,nextjs,dart,flutter&perline=8" alt="Languages and Frameworks" />
-</p>
-
-<p>
-  <b>Databases, DevOps & Tools</b><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,linux,git,github,postman&perline=9" alt="Databases, DevOps and Tools" />
-</p>
-
-</div>
-
----
-
 ### 🏅 Verified Badges & Recognitions
 
 <div align="center">
