@@ -30,6 +30,10 @@
   <a href="https://holopin.io/@minKasent" target="_blank">
     <img src="https://holopin.me/minKasent" alt="@minKasent's Holopin Board" width="100%" />
   </a>
+  <br /><br />
+  <a href="https://www.credly.com/badges/b3a775a1-253c-4223-a952-5dcf58610719" target="_blank">
+    <img src="https://images.credly.com/images/81d18a6f-00e5-42bf-83ca-c05f61b72f84/blob" width="130" height="130" alt="Google Cloud Skill Badge: Implement Event-Driven Messaging and Automation Workflows" />
+  </a>
 </div>
 
 ---
