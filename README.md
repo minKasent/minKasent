@@ -3,7 +3,7 @@
 # Hey, I'm Dang Khoa 👋
 
 <a href="https://github.com/minKasent">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=61AFEF&center=true&vCenter=true&width=520&lines=Fullstack+%26+Mobile+Engineer;Java+%7C+Spring+Boot+Microservices;TypeScript+%7C+React+%7C+Next.js;Dart+%7C+Flutter+Architect;Clean+Architecture+%26+High+Performance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=61AFEF&center=true&vCenter=true&width=520&lines=Fullstack+%26+Mobile+Engineer;Java+%7C+Spring+Boot+Microservices;Dart+%7C+Flutter+Architect;Clean+Architecture+%26+High+Performance" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -46,22 +46,6 @@
   <a href="https://learn.microsoft.com/api/achievements/share/vi-vn/dangkhoa-2399/D345THDJ?sharingId=A255E17C20971F2C" target="_blank" title="Kiểm soát phiên bản bằng Git">
     <img src="https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg" width="125" height="125" alt="Kiểm soát phiên bản bằng Git" />
   </a>
-</div>
-
----
-
-### 3D Contribution Skyline
-
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Contribution Graph" width="100%" />
-</div>
-
----
-
-### GitHub Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=minKasent&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
