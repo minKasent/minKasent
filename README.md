@@ -34,6 +34,20 @@
   <a href="https://www.credly.com/badges/b3a775a1-253c-4223-a952-5dcf58610719" target="_blank">
     <img src="https://images.credly.com/images/81d18a6f-00e5-42bf-83ca-c05f61b72f84/blob" width="130" height="130" alt="Google Cloud Skill Badge: Implement Event-Driven Messaging and Automation Workflows" />
   </a>
+  <br /><br />
+  <p align="center">
+    <a href="https://learn.microsoft.com/api/achievements/share/vi-vn/dangkhoa-2399/2TAQ228V?sharingId=A255E17C20971F2C" target="_blank">
+      <img src="https://img.shields.io/badge/Microsoft%20Learn-MCP%20Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="MCP Server Badge" />
+    </a>
+    &nbsp;
+    <a href="https://learn.microsoft.com/api/achievements/share/vi-vn/dangkhoa-2399/EGVB4SFP?sharingId=A255E17C20971F2C" target="_blank">
+      <img src="https://img.shields.io/badge/Microsoft%20Learn-Copilot%20Cloud%20Agent-238636?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot Cloud Agent Badge" />
+    </a>
+    &nbsp;
+    <a href="https://learn.microsoft.com/api/achievements/share/vi-vn/dangkhoa-2399/D345THDJ?sharingId=A255E17C20971F2C" target="_blank">
+      <img src="https://img.shields.io/badge/Microsoft%20Learn-Git%20Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Version Control Badge" />
+    </a>
+  </p>
 </div>
 
 ---
